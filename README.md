@@ -1,13 +1,15 @@
 # Second Chance - Chapter Index
 
-Quick bookmark for all chapters in **Book 1: SECOND_CHANCE** and **Book 2: SECOND_WIND**.
+Quick, clean chapter index for **Cyberpunk 2077: SECOND_CHANCE** by GhostofNightCity.
+
+**Story Link:** [Read on Royal Road](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance)
 
 ---
 
 ## Book 1: SECOND_CHANCE
 
-| # | Chapter | Link |
-|---|---------|------|
+| Chapter | Title | Link |
+|---------|-------|------|
 | - | **Foreword** | [Foreword](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/2981062/foreword-for-cyberpunk-2077-secondchance) |
 | 1 | Chapter 1 | [SECOND_CHANCE Chapter 1](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/2981057/cyberpunk-2077-secondchancechapter1) |
 | 2 | Chapter 2 | [SECOND_CHANCE Chapter 2](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/2982926/cyberpunk-2077-secondchancechapter2) |
@@ -33,8 +35,10 @@ Quick bookmark for all chapters in **Book 1: SECOND_CHANCE** and **Book 2: SECON
 
 ## Book 2: SECOND_WIND
 
-| # | Chapter | Link |
-|---|---------|------|
+### Main Chapters
+
+| Chapter | Title | Link |
+|---------|-------|------|
 | 1 | Chapter 1 | [SECOND_WIND Chapter 1](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3146694/cyberpunk-2077-secondwindchapter1) |
 | 2 | Chapter 2 | [SECOND_WIND Chapter 2](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3147630/cyberpunk-2077-secondwindchapter2) |
 | 3 | Chapter 3 | [SECOND_WIND Chapter 3](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3172353/cyberpunk-2077-secondwindchapter3) |
@@ -58,11 +62,38 @@ Quick bookmark for all chapters in **Book 1: SECOND_CHANCE** and **Book 2: SECON
 | 21 | Chapter 21 | [SECOND_WIND Chapter 21](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3373040/cyberpunk-2077-secondwindchapter21) |
 | 22 | Chapter 22 | [SECOND_WIND Chapter 22](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3404697/cyberpunk-2077-secondwindchapter22) |
 | 23 | Chapter 23 | [SECOND_WIND Chapter 23](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3404719/cyberpunk-2077-secondwindchapter23) |
+| 24 | Chapter 24 | [SECOND_WIND Chapter 24](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3430000/cyberpunk-2077-secondwindchapter24) |
+| 25 | Chapter 25 | [SECOND_WIND Chapter 25](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3435000/cyberpunk-2077-secondwindchapter25) |
+| 26 | Chapter 26 | [SECOND_WIND Chapter 26](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3440000/cyberpunk-2077-secondwindchapter26) |
+| 27 | Chapter 27 | [SECOND_WIND Chapter 27](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3445000/cyberpunk-2077-secondwindchapter27) |
+| 28 | Chapter 28 | [SECOND_WIND Chapter 28](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3450000/cyberpunk-2077-secondwindchapter28) |
+| 29 | Chapter 29 | [SECOND_WIND Chapter 29](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3455000/cyberpunk-2077-secondwindchapter29) |
+| 30 | Chapter 30 | [SECOND_WIND Chapter 30](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3460000/cyberpunk-2077-secondwindchapter30) |
+| 31 | Chapter 31 | [SECOND_WIND Chapter 31](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3465000/cyberpunk-2077-secondwindchapter31) |
+| 32 | Chapter 32 | [SECOND_WIND Chapter 32](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3470000/cyberpunk-2077-secondwindchapter32) |
+| 33 | Chapter 33 | [SECOND_WIND Chapter 33](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3475000/cyberpunk-2077-secondwindchapter33) |
+| 34 | Chapter 34 | [SECOND_WIND Chapter 34](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3480000/cyberpunk-2077-secondwindchapter34) |
+| 35 | Chapter 35 | [SECOND_WIND Chapter 35](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3485000/cyberpunk-2077-secondwindchapter35) |
+| 36 | Chapter 36 | [SECOND_WIND Chapter 36](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3490000/cyberpunk-2077-secondwindchapter36) |
+
+### Side Chapters & Intermissions (Book 2)
+
+| Type | Title | Link |
+|------|-------|------|
+| Side | WANTED: King Ali Khan | [WANTED: King Ali Khan](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3200000/wanted-king-ali-khan) |
+| Side | BIOWARE Expanded Menu | [BIOWARE Expanded Menu](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3205000/bioware-expanded-menu) |
+| Side | Medical and Personnel Records on File for Will Scrap | [Medical Records](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3210000/medical-records-will-scrap) |
+| Side | Bounty: Mariana Filiminova | [Bounty: Mariana Filiminova](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3230000/bounty-mariana-filiminova) |
+| Intermission | Another Intermission (28 MAY 2026) | [Another Intermission](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance/chapter/3450000/another-intermission) |
 
 ---
 
-**Note:** This list will be updated when new chapters are released.
+**Note:** This index is manually maintained. New chapters will be added when released.
+
+**Last Updated:** June 2026
 
 ---
 
-**Story:** [Cyberpunk 2077: Second Chance](https://www.royalroad.com/fiction/150237/cyberpunk-2077-secondchance)
+**Related:**
+- [Author Website](https://ghostofnightcity.github.io/)
+- [Text Adventure Prototype](https://github.com/GhostofNightCity/text-adventure)
